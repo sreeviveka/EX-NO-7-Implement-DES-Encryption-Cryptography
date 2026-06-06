@@ -1,5 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-
+## NAME: V.S.SREE VIVEKA
+## REG NO: 2305001031
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
@@ -43,8 +44,7 @@ int main(){
 
 
 ## Output:
-
-
+<img width="583" height="304" alt="image" src="https://github.com/user-attachments/assets/a295e82e-257e-4ffe-bb11-78151e19f938" />
 
 ## Result:
 The program is executed successfully
